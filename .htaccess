@@ -1,0 +1,5 @@
+Options All -Indexes
+
+ErrorDocument 404 /selva/errores/404.html
+ErrorDocument 500 /selva/errores/500.html
+ErrorDocument 403 /selva/errores/403.html

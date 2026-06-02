@@ -1,0 +1,5 @@
+Aplicacion web para dar publicidad a un colegio en el cual 
+el alumno puede registrarse para subir el comprobante del 
+pago de ficha y ver el estado(pendiente, aprobado o rechazado),
+el estado es actualizado por el administrador quien se encarga 
+de ver si el comprobante realmente es del pago de ficha

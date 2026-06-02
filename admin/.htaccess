@@ -1,0 +1,9 @@
+<FilesMatch "\.(php)$">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
+
+<FilesMatch "^(index\.php|login\.php|auth\.php|dashboard\.php|revisar-ficha\.php|fichas\.php|usuarios\.php|configuracion\.php|logout\.php|reportes\.php)$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
